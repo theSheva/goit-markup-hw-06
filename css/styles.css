@@ -748,6 +748,7 @@ button {
 }
 
 .mobile-menu {
+  z-index: 999;
   position: fixed;
   inset: 0;
   background: #fff;
